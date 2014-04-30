@@ -1,0 +1,13 @@
+Bill of Material for 
+On 2014-04-29 at ¿ÀÀü 2:29:22
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1.0uF               CAPC1608X06L     2    C?, C?                       Capacitor, X5R, ?0%  
+ 100nF               CAPC1608X06L     1    C?                           Capacitor, X5R, ?0%  
+ 10uF                CAPC1608X06L     1    C?                           Capacitor, X5R, ?0%  
+ 16MHz               BT-XTAL_2520     1    X?                           XTAL SMD 2520, 16MHz, 8pF, ?5ppm 
+ 32.768kHz           FC-135           1    X?                           EPSON TOYOCOM - FC-135 32.768KHZ ?0PPM,9.0PF - CRYSTAL, SM, WATCH 
+ LIS3DH              LGA16-3X3X1_M    1    U?                                                
+ MICRO-B-USB         MICRO-B-USB (Hirose)    1    P?                                                
+ nRF51822 QFN48 6x6 DCDC QFN40P600X600X90-48N    1    U?                           nRF51822 - Multi-protocol Bluetooth Low Energy and 2.4GHz proprietary system-on-chip 
