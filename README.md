@@ -1,4 +1,4 @@
-blue
+bluemountain
 ====
 
-bluetooth 4.0 module
+bluetooth javascript interpreter
